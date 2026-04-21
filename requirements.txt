@@ -1,0 +1,13 @@
+# Auto-Recon Swarm — Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# Progress bar with ETA
+tqdm>=4.65.0
+
+# Jinja2 is listed here for reference; the report module uses pure f-strings
+# to avoid a hard dependency, but you may swap to Jinja2 templates if desired.
+# jinja2>=3.1.0
+
+# All other dependencies are Python standard library:
+#   argparse, subprocess, logging, json, csv, xml.etree.ElementTree,
+#   concurrent.futures, pathlib, re, shutil, datetime, time, html
