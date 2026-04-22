@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-recon.py — Auto-Recon Swarm
+recon.py — Auto-Recon  Swarm
 ============================
 Automated initial reconnaissance for authorized penetration testing.
 
